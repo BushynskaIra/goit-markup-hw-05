@@ -526,7 +526,9 @@ padding: 24px 0;
     color: var(--background-color-gray);
     letter-spacing: 0.02em;
 }
+
 /*Modal*/
+
 .backdrop{
     position: fixed;
     top: 0;
